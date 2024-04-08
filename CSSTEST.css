@@ -1,0 +1,36 @@
+body{
+    background-color: pink;
+}
+h1{
+    color: rgb(0, 102, 255);
+    text-align: center;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: smaller;
+    color: green;
+}
+dl{
+    color: purple;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+ol{
+    text-align: right;
+}
+dt{
+    font-weight: bold;
+    font-size: larger;
+}
+dd{
+    font-style: italic;
+}
+img {
+    max-width: 200%;
+    height: auto;
+}
+.dnb{
+    color: blue;
+}
+.pop{
+    color: gray;
+}
