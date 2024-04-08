@@ -34,3 +34,12 @@ img {
 .pop{
     color: gray;
 }
+.header{
+    font-size: 3em;
+}
+.centre{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
